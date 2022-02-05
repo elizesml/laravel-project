@@ -13,6 +13,7 @@ composer update --ignore-platform-reqs
 ```
 Copy .env.example and rename it to .env
 php artisan key:generate
+npm install && npm run dev
 ```
 
 <br>
