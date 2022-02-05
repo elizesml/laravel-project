@@ -19,7 +19,7 @@ npm install && npm run dev
 <br>
 <h3>Preparing the database</h3>
 <p>Change db name and user credentials in .env file</p>
-<p>Seed the database</p>
+<p>Migrate and seed the database</p>
 
 ```
 php artisan migrate –-seed
